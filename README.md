@@ -1,3 +1,3 @@
 # Text-me
-Resultat:
+Result:
 https://dzhuraev27.github.io/Text-me/
